@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hi, welcome! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
-<!--
-**xtypsy/xtypsy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center"><samp>&gt; Hi fellow <𝚌𝚘𝚍𝚎𝚛𝚜/>! 👋🏾 I am adarsh. <br> I am a front-end web developer and passionate ui designer from <b>India</b> </samp></h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://twitter.com/xtypsytweets" target="_blank">
+    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=071A2C" alt="Twitter"/></a> </p>
+    
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```css
+#big-bang::before { 
+content: "";
+}
+```
