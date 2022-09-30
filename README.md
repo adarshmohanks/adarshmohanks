@@ -1,4 +1,4 @@
-#Hi, welcome! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+ # Hi, welcome! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 <h3 align="center"><samp>&gt; Hi fellow < coders />! 👋🏾 I am adarsh. <br> I am a front-end web developer and passionate ui designer from <b>India</b> </samp></h3>
 
