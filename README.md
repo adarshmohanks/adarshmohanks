@@ -3,7 +3,7 @@
 <h3 align="center"><samp>&gt; Hi fellow <𝚌𝚘𝚍𝚎𝚛𝚜/>! 👋🏾 I am adarsh. <br> I am a front-end web developer and passionate ui designer from <b>India</b> </samp></h3>
 
 <p align="center">
-  <a href="https://twitter.com/xtypsytweets" target="_blank">
+  <a href="https://twitter.com/xtypsytweets" target="_blank" >
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=071A2C" alt="Twitter"/></a> </p>
     
 <p align="center">
