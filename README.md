@@ -1,6 +1,6 @@
  # Hi, welcome! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
-<h3 align="center"><samp>&gt; Hi there!, I'm Adarsh.</samp></h3>
+<h3 align="center"><samp>&gt; Hi there!, I'm adarsh.</samp></h3>
 
 <p align="center">
   <a href="https://twitter.com/xtypsytweets" target="_blank" >
