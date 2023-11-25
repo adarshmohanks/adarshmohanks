@@ -3,7 +3,7 @@
 <h3 align="center"><samp>&gt; Hi there!, I'm Adarsh.</samp></h3>
     
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer&width=100"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=75&section=footer&width=100"/>
 </p>
 
 ```css
