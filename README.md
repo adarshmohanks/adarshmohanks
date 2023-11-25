@@ -1,4 +1,4 @@
- # Welcome!
+# Welcome!
 
 <h3 align="center"><samp>&gt; Hi there!, I'm Adarsh.</samp></h3>
     
@@ -8,6 +8,7 @@
 
 ```css
 #big-bang::before { 
-content: "";
+  content: "";
+  display: block;
+  margin: 0 auto; /* Center the content horizontally */
 }
-```
