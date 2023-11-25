@@ -1,6 +1,6 @@
  # Hi, welcome!
 
-<h3 align="center"><samp>&gt; Hi there!, I'm adarsh.</samp></h3>
+<h3 align="center"><samp>&gt; Hi there!, I'm Adarsh.</samp></h3>
     
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer&width=100"/>
