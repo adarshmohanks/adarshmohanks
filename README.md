@@ -1,4 +1,4 @@
- # Hi, welcome!
+ # Welcome!
 
 <h3 align="center"><samp>&gt; Hi there!, I'm Adarsh.</samp></h3>
     
